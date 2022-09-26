@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-Este projeto é o `primeiro` exercício proposto pelo professor **Montanha**!
+Este projeto é o `nono` exercício proposto pelo professor **Montanha**!
 
 Foi passado como base a lista de _Estrutura Sequencial_ de Python.
 
